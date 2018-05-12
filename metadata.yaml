@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31332'
     url: http://www.gutenberg.org/2009/agents/31332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25436#Uma-scena-conjugal--13-Comedia-lever-de-rideau
 gutenberg_bookshelf: PT Teatro
 gutenberg_issued: '2008-05-11'
 gutenberg_type: Text
