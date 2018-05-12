@@ -1,0 +1,28 @@
+_repo: Uma-scena-conjugal--13-Comedia-lever-de-rideau_25436
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Couceiro, Luís
+    aliases:
+    - Couceiro, Luis
+    - Couceiro, Luiz
+    gutenberg_agent_id: '31332'
+    url: http://www.gutenberg.org/2009/agents/31332
+description: ''
+gutenberg_bookshelf: PT Teatro
+gutenberg_issued: '2008-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25436'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese drama'
+title: "Uma scena conjugal\r\nComedia—lever de rideau"
+url: http://www.gutenberg.org/ebooks/25436
